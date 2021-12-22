@@ -1,0 +1,67 @@
+#home {
+    background-color: #f9ff82;
+    text-align: center;
+    margin-top: 20px;
+    border: double;
+    padding: 30px;
+    border-width: 20px;
+}
+
+h1 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 60px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#logo {
+    margin-top: -30px;
+    text-align: center;
+    margin-right: 0px;
+}
+
+h3 {
+    font-family: 'Work Sans', sans-serif;
+}
+
+#Menu {
+    background-color: grey;
+    z-index: 10;
+    position: absolute;
+    margin-top: -10px;
+  
+}
+
+.link {
+    font-family: 'Bebas Neue', cursive;
+    text-decoration: none;
+    cursor: pointer;
+    margin-right: 50px;
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    list-style-type: none;
+}
+
+.link:hover {
+    font-size: 25px;
+}
+
+a:hover {
+    font-size: 25px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    font-family: 'Bebas Neue', cursive;
+    text-decoration: none;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    float: left;
+
+}
